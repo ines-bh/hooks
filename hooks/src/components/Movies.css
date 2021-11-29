@@ -1,0 +1,26 @@
+.imgstyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  flex-wrap: wrap;
+  overflow: auto;
+  margin: auto;
+  padding: 50px;
+  
+}
+
+.listMovies {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.movieImg {
+  height: 300px;
+}
+.text {
+  color: rgb(133, 128, 121);
+  text-align: center;
+}
